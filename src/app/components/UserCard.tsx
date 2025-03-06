@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 interface UserCardProps {
-  user: any; // Podrías tiparlo mejor con un tipo custom
+  user: any; 
   onRefresh: () => void; // Llamada para obtener un nuevo usuario
 }
 

@@ -1,5 +1,5 @@
 "use client";
-
+// Llamada a la API
 import { useState, useEffect } from "react";
 
 export function useRandomUser() {
